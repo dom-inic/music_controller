@@ -25,32 +25,6 @@ class Room(models.Model):
     created_at = models.DateTimeField(  auto_now=True)
 
 
-# class CarRentalCompany(models.Model):
-#     company_name
-#     location
-#     address 
-#     email 
-#     phone_no 
-#     registration date
 
 
-
-# class carsfor companey
-#     company id 
-#     car photos /
-
-
-# class rent:
-#         company id 
-#         owner id 
-
-
-# class profile: 
-#     one to one field. 
-#     company/individual 
-#     name 
-#     location
-#     email 
-#     phone 
-#     date of registration 
 
